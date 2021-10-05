@@ -1,11 +1,11 @@
-calcularCadenas(cadena)
+calcularCadenas("cadena")
 
 -Devolver 1 caracter recibido
 -Devolver 2 caracteres recibidos
 -Devolver los caracteres recibidos omitiendo la coma
 -Sumar caracteres obtenidos
 -Adicionar caracter de separacion " - "
--Permitir especificar delimitador
+-Permitir especificar delimitador ("//[delimitador]\nCadena")
 -Omitir numeros mayores a 1000 al momento de hacer la Suma
--Manejar diferentes longitudes del limitador ejem [***],[**],[******]
--Permitir especificar y manejar multiples delimitadores simultaneamente
+-Manejar diferentes longitudes del limitador ejem [***],[**],[******]. Ejem: “//[***]\n 1***2***3”
+-Permitir especificar y manejar multiples delimitadores simultaneamente. “//[delim1][delim2]\n”. Por ejemplo: “//[*][%]\n1*2%3,7-9”
