@@ -1,0 +1,11 @@
+calcularCadenas(cadena)
+
+-Devolver 1 caracter recibido
+-Devolver 2 caracteres recibidos
+-Devolver los caracteres recibidos omitiendo la coma
+-Sumar caracteres obtenidos
+-Adicionar caracter de separacion " - "
+-Permitir especificar delimitador
+-Omitir numeros mayores a 1000 al momento de hacer la Suma
+-Manejar diferentes longitudes del limitador ejem [***],[**],[******]
+-Permitir especificar y manejar multiples delimitadores simultaneamente
